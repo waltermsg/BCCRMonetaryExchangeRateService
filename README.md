@@ -75,7 +75,7 @@ CREATE TABLE TipoCambio (
 Unauthorized copying, modification, or distribution is strictly prohibited.  
 For commercial use or licensing, please contact:
 
-📧 **walter@tucorreo.com**
+📧 **waltermsg@gmail.com**
 
 ## 📄 Legal Notice
 
