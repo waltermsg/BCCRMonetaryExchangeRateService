@@ -1,0 +1,11 @@
+Copyright (c) 2025 Walter Molina (waljoma)
+
+All rights reserved.
+
+This software and its source code are proprietary and confidential. It is not licensed under any open-source license.
+
+You are not permitted to copy, modify, distribute, sublicense, or use this software, in whole or in part, without the express written permission of the author.
+
+By accessing or viewing this repository, you acknowledge that the contents are for demonstration purposes only and not intended for free use.
+
+For commercial licensing or inquiries, please contact: waltermsg@gmail.com
